@@ -1,0 +1,23 @@
+2021-1111
+Bart Simpson
+CS1
+CS7
+#
+2021-2222
+Lisa Simpson
+CS2
+CS16
+#
+2021-3333
+Harry Potter
+CS2
+CS16
+CS7
+#
+2021-4444
+Hermione Granger
+CS2
+CS3
+CS7
+CS16
+#
