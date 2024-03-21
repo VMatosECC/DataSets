@@ -1,0 +1,30 @@
+Apple Inc.
+AAPL
+120.00  125.50
+Amazon.com Inc.
+AMZN
+3200.00  3300.00
+Microsoft Corporation
+MSFT
+220.50  225.75
+Alphabet Inc. (Google)
+GOOGL
+2000.00  2050.00
+Meta Platforms, Inc. (formerly Facebook)
+META
+300.25  305.75
+Tesla, Inc.
+TSLA
+750.00  775.50
+NVIDIA Corporation
+NVDA
+600.00  625.00
+PayPal Holdings, Inc.
+PYPL
+180.00  185.25
+Netflix, Inc.
+NFLX
+550.00  575.00
+Intel Corporation
+INTC
+50.25  55.75
