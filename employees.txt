@@ -1,0 +1,21 @@
+10001,Lionel Messi,Finance,M,95000
+10018,Cristiano Ronaldo,Marketing,F,72000
+10009,Kylian Mbappe,HR,M,75000
+10011,Marta Vieira da Silva,Marketing,F,100000
+10014,Mike Trout,Administration,F,84000
+10021,Deyna Castellanos,Marketing,F,96000
+10007,Virgil van Dijk,IT,M,84000
+10019,Marc-Andre ter Stegen,IT,M,78000
+10003,Neymar Jr.,Marketing,M,82000
+10012,David de Gea,IT,M,85000
+10010,Andres Iniesta,Finance,M,85000
+10006,Alex Morgan,Marketing,F,93000
+10017,Mookie Betts,Legal,M,92000
+10008,Samantha Kerr,Administration,F,82000
+10002,Cristiano Ronaldo,Administration,F,76000
+10016,Bryce Harper,Medical,F,72000
+10004,Megan Rapinoe,HR,F,60000
+10005,Luka Modric,Sales,M,82000
+10013,Jose Altuve,Finance,M,73000
+10020,Albert Pujols,Legal,F,70000
+10022,Sydney Leroux,Marketing,F,70000
