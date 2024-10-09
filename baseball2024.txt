@@ -1,0 +1,38 @@
+@ Each team’s data includes:
+@ Team name on the first row.
+@ Division on the second row.
+@ Winning percentage for the 2024 season.
+@ Player names, one per line.
+@ A # symbol to indicate the end of the team's data.
+LA Dodgers
+National League West
+0.640
+Mookie Betts
+Clayton Kershaw
+Freddie Freeman
+#
+Cleveland Guardians
+American League Central
+0.520
+José Ramírez
+Shane Bieber
+#
+NY Yankees
+American League East
+0.570
+Aaron Judge
+Gerrit Cole
+#
+Atlanta Braves
+National League East
+0.680
+Ronald Acuña Jr.
+Matt Olson
+Max Fried
+#
+San Francisco Giants
+National League West
+0.590
+Brandon Crawford
+Logan Webb
+#
